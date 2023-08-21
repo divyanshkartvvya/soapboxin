@@ -6,3 +6,4 @@ Que tal, les comparto este parallax website, espero sea de su agrado.
 [Bedimcode](https://www.youtube.com/c/Bedimcode)
 "# SoapBox1" 
 "# soapboxfinal" 
+"# soapbox2" 
